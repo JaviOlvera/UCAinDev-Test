@@ -11,3 +11,5 @@ public class Coin : MonoBehaviour
         }
     }
 }
+
+//POLLACOINMEGACOIN
