@@ -1,0 +1,4420 @@
+fileFormatVersion: 2
+guid: 758313aa4ca4c5b46a07cce08c0639fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 405518615512985844
+    second: Tileset Reduced_0
+  - first:
+      213: 6378526237037239416
+    second: Tileset Reduced_1
+  - first:
+      213: 8364366358633753866
+    second: Tileset Reduced_2
+  - first:
+      213: 7257065519329990256
+    second: Tileset Reduced_3
+  - first:
+      213: -5489616496254126558
+    second: Tileset Reduced_4
+  - first:
+      213: -1834655142299904490
+    second: Tileset Reduced_5
+  - first:
+      213: -7148246880927887912
+    second: Tileset Reduced_6
+  - first:
+      213: 5855456727237025572
+    second: Tileset Reduced_7
+  - first:
+      213: 8237924725710615597
+    second: Tileset Reduced_8
+  - first:
+      213: 5667677378178105670
+    second: Tileset Reduced_9
+  - first:
+      213: -991387646694473158
+    second: Tileset Reduced_10
+  - first:
+      213: -5026326306744438256
+    second: Tileset Reduced_11
+  - first:
+      213: -2528448690448839873
+    second: Tileset Reduced_12
+  - first:
+      213: -5811932640420769160
+    second: Tileset Reduced_13
+  - first:
+      213: -7140741285571319941
+    second: Tileset Reduced_14
+  - first:
+      213: -3758691804754308022
+    second: Tileset Reduced_15
+  - first:
+      213: 6059349604454102393
+    second: Tileset Reduced_16
+  - first:
+      213: -5264267084217323029
+    second: Tileset Reduced_17
+  - first:
+      213: 5993355287841823063
+    second: Tileset Reduced_18
+  - first:
+      213: -3443261440005518360
+    second: Tileset Reduced_19
+  - first:
+      213: -7470570966695778730
+    second: Tileset Reduced_20
+  - first:
+      213: 7237960955692802461
+    second: Tileset Reduced_21
+  - first:
+      213: -2268296523092777976
+    second: Tileset Reduced_22
+  - first:
+      213: 6582881525964703517
+    second: Tileset Reduced_23
+  - first:
+      213: -2306703852197152695
+    second: Tileset Reduced_24
+  - first:
+      213: 950928635804976571
+    second: Tileset Reduced_25
+  - first:
+      213: 8522363355021364680
+    second: Tileset Reduced_26
+  - first:
+      213: 4749858938591550307
+    second: Tileset Reduced_27
+  - first:
+      213: -4920700050497427567
+    second: Tileset Reduced_28
+  - first:
+      213: 5933501958299222171
+    second: Tileset Reduced_29
+  - first:
+      213: -2856269775138111541
+    second: Tileset Reduced_30
+  - first:
+      213: 2820206988180823155
+    second: Tileset Reduced_31
+  - first:
+      213: -5761429839964915640
+    second: Tileset Reduced_32
+  - first:
+      213: 1920965454816951526
+    second: Tileset Reduced_33
+  - first:
+      213: 2746147292629436777
+    second: Tileset Reduced_34
+  - first:
+      213: -7203794331518200094
+    second: Tileset Reduced_35
+  - first:
+      213: -2344592083681860077
+    second: Tileset Reduced_36
+  - first:
+      213: -3409965939507563302
+    second: Tileset Reduced_37
+  - first:
+      213: -631889574947635663
+    second: Tileset Reduced_38
+  - first:
+      213: 4257181593794937612
+    second: Tileset Reduced_39
+  - first:
+      213: 7304601224158813265
+    second: Tileset Reduced_40
+  - first:
+      213: -6887875347106824719
+    second: Tileset Reduced_41
+  - first:
+      213: -7177104470628537290
+    second: Tileset Reduced_42
+  - first:
+      213: -3356036527675611565
+    second: Tileset Reduced_43
+  - first:
+      213: 6073074922470055667
+    second: Tileset Reduced_44
+  - first:
+      213: 1230405353346245840
+    second: Tileset Reduced_45
+  - first:
+      213: -7478881333513342682
+    second: Tileset Reduced_46
+  - first:
+      213: -7324577070149622461
+    second: Tileset Reduced_47
+  - first:
+      213: 8379600973244522259
+    second: Tileset Reduced_48
+  - first:
+      213: 7911216815532056328
+    second: Tileset Reduced_49
+  - first:
+      213: -219041293014404750
+    second: Tileset Reduced_50
+  - first:
+      213: 8653089239679946377
+    second: Tileset Reduced_51
+  - first:
+      213: -6648365539457917996
+    second: Tileset Reduced_52
+  - first:
+      213: -1783616927443211117
+    second: Tileset Reduced_53
+  - first:
+      213: -5268899598105445395
+    second: Tileset Reduced_54
+  - first:
+      213: 1058311011048818194
+    second: Tileset Reduced_55
+  - first:
+      213: 5011599518165592595
+    second: Tileset Reduced_56
+  - first:
+      213: 3240479313960127731
+    second: Tileset Reduced_57
+  - first:
+      213: 6780594799337452521
+    second: Tileset Reduced_58
+  - first:
+      213: 8417028541250085039
+    second: Tileset Reduced_59
+  - first:
+      213: -6215153606875282567
+    second: Tileset Reduced_60
+  - first:
+      213: 8219874805489574620
+    second: Tileset Reduced_61
+  - first:
+      213: 5779909431871866979
+    second: Tileset Reduced_62
+  - first:
+      213: -5851357794975418867
+    second: Tileset Reduced_63
+  - first:
+      213: -4835094460433385615
+    second: Tileset Reduced_64
+  - first:
+      213: -5193024776674472720
+    second: Tileset Reduced_65
+  - first:
+      213: 3263142158886303383
+    second: Tileset Reduced_66
+  - first:
+      213: -202290446762423946
+    second: Tileset Reduced_67
+  - first:
+      213: -4352518552620758633
+    second: Tileset Reduced_68
+  - first:
+      213: -4767180625269065450
+    second: Tileset Reduced_69
+  - first:
+      213: 2343231681583009826
+    second: Tileset Reduced_70
+  - first:
+      213: 6319157342973977278
+    second: Tileset Reduced_71
+  - first:
+      213: -6871837823210457668
+    second: Tileset Reduced_72
+  - first:
+      213: -4869349587448578785
+    second: Tileset Reduced_73
+  - first:
+      213: 7605750817877568931
+    second: Tileset Reduced_74
+  - first:
+      213: 1490310536288186262
+    second: Tileset Reduced_75
+  - first:
+      213: 7794392308113360398
+    second: Tileset Reduced_76
+  - first:
+      213: 8789002820266236304
+    second: Tileset Reduced_77
+  - first:
+      213: -4178376631123015131
+    second: Tileset Reduced_78
+  - first:
+      213: -4124696001316212975
+    second: Tileset Reduced_79
+  - first:
+      213: 2757620068418976469
+    second: Tileset Reduced_80
+  - first:
+      213: -5907335351405592513
+    second: Tileset Reduced_81
+  - first:
+      213: 6478708927970027413
+    second: Tileset Reduced_82
+  - first:
+      213: -1217517176419695798
+    second: Tileset Reduced_83
+  - first:
+      213: 1632703367905430198
+    second: Tileset Reduced_84
+  - first:
+      213: 3839998129028913242
+    second: Tileset Reduced_85
+  - first:
+      213: -6141221493374655804
+    second: Tileset Reduced_86
+  - first:
+      213: 4657349899809944304
+    second: Tileset Reduced_87
+  - first:
+      213: -3545219900468242406
+    second: Tileset Reduced_88
+  - first:
+      213: -306965745369918709
+    second: Tileset Reduced_89
+  - first:
+      213: 504792585215257806
+    second: Tileset Reduced_90
+  - first:
+      213: -1514787373479339874
+    second: Tileset Reduced_91
+  - first:
+      213: 542229546620090789
+    second: Tileset Reduced_92
+  - first:
+      213: 1108377067410141626
+    second: Tileset Reduced_93
+  - first:
+      213: -9083148050913135896
+    second: Tileset Reduced_94
+  - first:
+      213: 8476686449292749344
+    second: Tileset Reduced_95
+  - first:
+      213: 7561422620884650485
+    second: Tileset Reduced_96
+  - first:
+      213: 4292156746686527423
+    second: Tileset Reduced_97
+  - first:
+      213: 5838501279055896142
+    second: Tileset Reduced_98
+  - first:
+      213: -6310739220228575515
+    second: Tileset Reduced_99
+  - first:
+      213: 7826661047125411153
+    second: Tileset Reduced_100
+  - first:
+      213: -188359533428710514
+    second: Tileset Reduced_101
+  - first:
+      213: 3618102013702793034
+    second: Tileset Reduced_102
+  - first:
+      213: 2350902387768197919
+    second: Tileset Reduced_103
+  - first:
+      213: 5749509810161037637
+    second: Tileset Reduced_104
+  - first:
+      213: 4354455658148536774
+    second: Tileset Reduced_105
+  - first:
+      213: 1906057327970015390
+    second: Tileset Reduced_106
+  - first:
+      213: 3467144572644551630
+    second: Tileset Reduced_107
+  - first:
+      213: 8820916068967312789
+    second: Tileset Reduced_108
+  - first:
+      213: -8602752719373005314
+    second: Tileset Reduced_109
+  - first:
+      213: -2649520433145639549
+    second: Tileset Reduced_110
+  - first:
+      213: 2934105228012451326
+    second: Tileset Reduced_111
+  - first:
+      213: -2595869154097029415
+    second: Tileset Reduced_112
+  - first:
+      213: 1311856202945036689
+    second: Tileset Reduced_113
+  - first:
+      213: -376412919502982467
+    second: Tileset Reduced_114
+  - first:
+      213: -7952370739491405473
+    second: Tileset Reduced_115
+  - first:
+      213: -4813177508404632531
+    second: Tileset Reduced_116
+  - first:
+      213: 165270529974988831
+    second: Tileset Reduced_117
+  - first:
+      213: -1497800261474982197
+    second: Tileset Reduced_118
+  - first:
+      213: 3352442770926880068
+    second: Tileset Reduced_119
+  - first:
+      213: 2677503213930415269
+    second: Tileset Reduced_120
+  - first:
+      213: -3058348689551272120
+    second: Tileset Reduced_121
+  - first:
+      213: -578699214046723705
+    second: Tileset Reduced_122
+  - first:
+      213: -1292565862214487037
+    second: Tileset Reduced_123
+  - first:
+      213: -2715086938485602558
+    second: Tileset Reduced_124
+  - first:
+      213: -3786233949265382868
+    second: Tileset Reduced_125
+  - first:
+      213: -4842259071253965559
+    second: Tileset Reduced_126
+  - first:
+      213: -2932435708982477604
+    second: Tileset Reduced_127
+  - first:
+      213: -182924481038570717
+    second: Tileset Reduced_128
+  - first:
+      213: -183915992218177729
+    second: Tileset Reduced_129
+  - first:
+      213: 1010275829287597190
+    second: Tileset Reduced_130
+  - first:
+      213: 922060816933954667
+    second: Tileset Reduced_131
+  - first:
+      213: -7755545091080144782
+    second: Tileset Reduced_132
+  - first:
+      213: 6406641915711287517
+    second: Tileset Reduced_133
+  - first:
+      213: -6565622783434555229
+    second: Tileset Reduced_134
+  - first:
+      213: 4036619538809695482
+    second: Tileset Reduced_135
+  - first:
+      213: -7756194980040936768
+    second: Tileset Reduced_136
+  - first:
+      213: -6149711518031301256
+    second: Tileset Reduced_137
+  - first:
+      213: -8861200816311349732
+    second: Tileset Reduced_138
+  - first:
+      213: -2479932655510975856
+    second: Tileset Reduced_139
+  - first:
+      213: -3497701247006936928
+    second: Tileset Reduced_140
+  - first:
+      213: 228911997787425562
+    second: Tileset Reduced_141
+  - first:
+      213: 4393745325622072499
+    second: Tileset Reduced_142
+  - first:
+      213: -7158221351336655035
+    second: Tileset Reduced_143
+  - first:
+      213: -7034741461925582108
+    second: Tileset Reduced_144
+  - first:
+      213: 212034814599170160
+    second: Tileset Reduced_145
+  - first:
+      213: -3865792034649108954
+    second: Tileset Reduced_146
+  - first:
+      213: 2849928824693718886
+    second: Tileset Reduced_147
+  - first:
+      213: 174780580612494539
+    second: Tileset Reduced_148
+  - first:
+      213: -1240503520726894908
+    second: Tileset Reduced_149
+  - first:
+      213: 405958263206062703
+    second: Tileset Reduced_150
+  - first:
+      213: 1298097891217654395
+    second: Tileset Reduced_151
+  - first:
+      213: 4844317899274450580
+    second: Tileset Reduced_152
+  - first:
+      213: -4047835020250827344
+    second: Tileset Reduced_153
+  - first:
+      213: 1085638780868404874
+    second: Tileset Reduced_154
+  - first:
+      213: 7814700881964336450
+    second: Tileset Reduced_155
+  - first:
+      213: -2255743791723765577
+    second: Tileset Reduced_156
+  - first:
+      213: 8233194853322709477
+    second: Tileset Reduced_157
+  - first:
+      213: -2204238977862715258
+    second: Tileset Reduced_158
+  - first:
+      213: 8190841372811337244
+    second: Tileset Reduced_159
+  - first:
+      213: 387662794628657299
+    second: Tileset Reduced_160
+  - first:
+      213: -3907140432953988395
+    second: Tileset Reduced_161
+  - first:
+      213: -6495687235611284960
+    second: Tileset Reduced_162
+  - first:
+      213: 2367394348299477275
+    second: Tileset Reduced_163
+  - first:
+      213: -3548573569512558794
+    second: Tileset Reduced_164
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset Reduced_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0b5734801b0a500800000000000000
+      internalID: 405518615512985844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 305
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c1d1551d3158850800000000000000
+      internalID: 6378526237037239416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 322
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0da79903e2341470800000000000000
+      internalID: 8364366358633753866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_3
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 305
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0765667e3a646b460800000000000000
+      internalID: 7257065519329990256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_4
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 322
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226f5a3c1e6f0d3b0800000000000000
+      internalID: -5489616496254126558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 313
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616ded55edef986e0800000000000000
+      internalID: -1834655142299904490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 322
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddcf77b5535ccc90800000000000000
+      internalID: -7148246880927887912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_7
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 305
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f52a0bed2c24150800000000000000
+      internalID: 5855456727237025572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_8
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 322
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24736244ecf25270800000000000000
+      internalID: 8237924725710615597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 305
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641c2dbfb82a7ae40800000000000000
+      internalID: 5667677378178105670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_10
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 322
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32c01c1032ed32f0800000000000000
+      internalID: -991387646694473158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_11
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 305
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012fb49cad6ee3ab0800000000000000
+      internalID: -5026326306744438256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_12
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 322
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3bcef4ff4529ecd0800000000000000
+      internalID: -2528448690448839873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_13
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 305
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872d8357e0ed75fa0800000000000000
+      internalID: -5811932640420769160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_14
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 322
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b772e8052adf6ec90800000000000000
+      internalID: -7140741285571319941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_15
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 305
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44927dc7b176dbc0800000000000000
+      internalID: -3758691804754308022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_16
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 322
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975f3678c52271450800000000000000
+      internalID: 6059349604454102393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_17
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 305
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1f17a6af091f6b0800000000000000
+      internalID: -5264267084217323029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_18
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 322
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759558051ecac2350800000000000000
+      internalID: 5993355287841823063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_19
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 305
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebcba7a6f31730d0800000000000000
+      internalID: -3443261440005518360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_20
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 322
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65660cc5943335890800000000000000
+      internalID: -7470570966695778730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_21
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 313
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91673e0427627460800000000000000
+      internalID: 7237960955692802461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_22
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 322
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8042dc784546580e0800000000000000
+      internalID: -2268296523092777976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_23
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 305
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d178b99ced71b5b50800000000000000
+      internalID: 6582881525964703517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_24
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 322
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94873cf5111fcffd0800000000000000
+      internalID: -2306703852197152695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_25
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 305
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb507e75e80623d00800000000000000
+      internalID: 950928635804976571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_26
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 322
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdcad66154854670800000000000000
+      internalID: 8522363355021364680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_27
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 305
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b96ffe983eae140800000000000000
+      internalID: 4749858938591550307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_28
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 322
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197aad3006926bbb0800000000000000
+      internalID: -4920700050497427567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_29
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 305
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9082821898085250800000000000000
+      internalID: 5933501958299222171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_30
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 322
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf353ec5cd7c58d0800000000000000
+      internalID: -2856269775138111541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_31
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 305
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c979b4053632720800000000000000
+      internalID: 2820206988180823155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_32
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 322
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8483e8ef51a4b00b0800000000000000
+      internalID: -5761429839964915640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_33
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 305
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec392847e3a8aa10800000000000000
+      internalID: 1920965454816951526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_34
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 322
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9690416b9664c1620800000000000000
+      internalID: 2746147292629436777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_35
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 305
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e692ea093bf60c90800000000000000
+      internalID: -7203794331518200094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_36
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 322
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31623fc0ce5567fd0800000000000000
+      internalID: -2344592083681860077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_37
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 305
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad478777b0e5da0d0800000000000000
+      internalID: -3409965939507563302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_38
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 322
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e39fb87c31b37f0800000000000000
+      internalID: -631889574947635663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_39
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 305
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c038a72aa1c841b30800000000000000
+      internalID: 4257181593794937612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_40
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 322
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c9ed7ac182f5560800000000000000
+      internalID: 7304601224158813265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_41
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 305
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fdf6868dd95960a0800000000000000
+      internalID: -6887875347106824719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_42
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 322
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c6158828dc56c90800000000000000
+      internalID: -7177104470628537290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_43
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 305
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356e8a22f86fc61d0800000000000000
+      internalID: -3356036527675611565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_44
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 309
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe19282775e74450800000000000000
+      internalID: 6073074922470055667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d421ff5627431110800000000000000
+      internalID: 1230405353346245840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_46
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 288
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62133ae4d0da53890800000000000000
+      internalID: -7478881333513342682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_47
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 271
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345a2c346ffd95a90800000000000000
+      internalID: -7324577070149622461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_48
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fd1c920b25a4470800000000000000
+      internalID: 8379600973244522259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_49
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 270
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f92ee37c94acd60800000000000000
+      internalID: 7911216815532056328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_50
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271fbb2ca1fc5fcf0800000000000000
+      internalID: -219041293014404750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_51
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 288
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ec0e441d2f51870800000000000000
+      internalID: 8653089239679946377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_52
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 271
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db99a334c24cb3a0800000000000000
+      internalID: -6648365539457917996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_53
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39caf50cad15f37e0800000000000000
+      internalID: -1783616927443211117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_54
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 270
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debf9b93bbb11e6b0800000000000000
+      internalID: -5268899598105445395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2160373e140efae00800000000000000
+      internalID: 1058311011048818194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_56
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 280
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a67cc8537cc8540800000000000000
+      internalID: 5011599518165592595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_57
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 280
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc489a64ce78fc20800000000000000
+      internalID: 3240479313960127731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_58
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 271
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3be5c7b03891e50800000000000000
+      internalID: 6780594799337452521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_59
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa02989ecda4fc470800000000000000
+      internalID: 8417028541250085039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_60
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97306bd49b65fb9a0800000000000000
+      internalID: -6215153606875282567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_61
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 272
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2a367b59cd21270800000000000000
+      internalID: 8219874805489574620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_62
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 280
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36807a8410d563050800000000000000
+      internalID: 5779909431871866979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_63
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 280
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06f6c8561dcbcea0800000000000000
+      internalID: -5851357794975418867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_64
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 271
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177b866a43b46ecb0800000000000000
+      internalID: -4835094460433385615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_65
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc048cba7baee7b0800000000000000
+      internalID: -5193024776674472720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_66
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796f4003182094d20800000000000000
+      internalID: 3263142158886303383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_67
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 272
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679454319e1513df0800000000000000
+      internalID: -202290446762423946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_68
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 272
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7990eb0ef6fb893c0800000000000000
+      internalID: -4352518552620758633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_69
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 260
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61976ba9a7297ddb0800000000000000
+      internalID: -4767180625269065450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_70
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 260
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2205237acc4d48020800000000000000
+      internalID: 2343231681583009826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_71
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 260
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2e3c38f1822b750800000000000000
+      internalID: 6319157342973977278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_72
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 260
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5727988e352a0a0800000000000000
+      internalID: -6871837823210457668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1dbee069589c6cb0800000000000000
+      internalID: -4869349587448578785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_74
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3adaab5621e0d8960800000000000000
+      internalID: 7605750817877568931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_75
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69faa786985aea410800000000000000
+      internalID: 1490310536288186262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_76
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06422df18e3b2c60800000000000000
+      internalID: 7794392308113360398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_77
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09910e7bf7fc8f970800000000000000
+      internalID: 8789002820266236304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_78
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a8e1c879c6306c0800000000000000
+      internalID: -4178376631123015131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_79
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fa21327d222c6c0800000000000000
+      internalID: -4124696001316212975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_80
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5daf99b77d8054620800000000000000
+      internalID: 2757620068418976469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_81
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30cc5adbcde40ea0800000000000000
+      internalID: -5907335351405592513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_82
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5972eceb17ff8e950800000000000000
+      internalID: 6478708927970027413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_83
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43419724928a1fe0800000000000000
+      internalID: -1217517176419695798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_84
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba469b001788a610800000000000000
+      internalID: 1632703367905430198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_85
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58dee204f96a4530800000000000000
+      internalID: 3839998129028913242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_86
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2e860e69ff5caa0800000000000000
+      internalID: -6141221493374655804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_87
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f27fd4ee0b32a040800000000000000
+      internalID: 4657349899809944304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_88
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18d1fda849dccec0800000000000000
+      internalID: -3545219900468242406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_89
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 243
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03530de7407dbbf0800000000000000
+      internalID: -306965745369918709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_90
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 243
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecca1078e22610700800000000000000
+      internalID: 504792585215257806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_91
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 243
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e985485d8e46afae0800000000000000
+      internalID: -1514787373479339874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_92
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9f20956e2668700800000000000000
+      internalID: 542229546620090789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1bb24021fb16f00800000000000000
+      internalID: 1108377067410141626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_94
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e27a07e8fc22f180800000000000000
+      internalID: -9083148050913135896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_95
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 229
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a267a0a6d33a570800000000000000
+      internalID: 8476686449292749344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_96
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9ce62cfc19fe860800000000000000
+      internalID: 7561422620884650485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_97
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7fb8ef1ddc09b30800000000000000
+      internalID: 4292156746686527423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_98
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e5ac6caf5860150800000000000000
+      internalID: 5838501279055896142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_99
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee662c6d10cb68a0800000000000000
+      internalID: -6310739220228575515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_100
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1550c4341c2ed9c60800000000000000
+      internalID: 7826661047125411153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_101
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e836ce79000d26df0800000000000000
+      internalID: -188359533428710514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_102
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4761e7ac94163230800000000000000
+      internalID: 3618102013702793034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_103
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 229
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f138a8c144510a020800000000000000
+      internalID: 2350902387768197919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_104
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541b54bc5bc5acf40800000000000000
+      internalID: 5749509810161037637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_105
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c12226a9522e6c30800000000000000
+      internalID: 4354455658148536774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_106
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98de238a0da37a10800000000000000
+      internalID: 1906057327970015390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_107
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbe66d7e95cd1030800000000000000
+      internalID: 3467144572644551630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_108
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59de454fd603a6a70800000000000000
+      internalID: 8820916068967312789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd0f372bf1ec9880800000000000000
+      internalID: -8602752719373005314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_110
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 204
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d073d24330b3bd0800000000000000
+      internalID: -2649520433145639549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_111
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 187
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef57c49c82908b820800000000000000
+      internalID: 2934105228012451326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_112
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de17a202ce99fbd0800000000000000
+      internalID: -2595869154097029415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_113
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 186
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1918eec1446a43210800000000000000
+      internalID: 1311856202945036689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_114
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2382ca176b6caf0800000000000000
+      internalID: -376412919502982467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_115
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 204
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51876622f083a190800000000000000
+      internalID: -7952370739491405473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_116
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 187
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2464a2be88243db0800000000000000
+      internalID: -4813177508404632531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_117
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10fffedba82b4200800000000000000
+      internalID: 165270529974988831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_118
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 186
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6eb4e099eb63be0800000000000000
+      internalID: -1497800261474982197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_119
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 209
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4454cea20f4468e20800000000000000
+      internalID: 3352442770926880068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_120
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 209
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a40a4facf6682520800000000000000
+      internalID: 2677503213930415269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_121
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 209
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847d30812109e85d0800000000000000
+      internalID: -3058348689551272120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_122
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78182f2812c08f7f0800000000000000
+      internalID: -578699214046723705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_123
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 196
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304b8e55232ef0ee0800000000000000
+      internalID: -1292565862214487037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_124
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 196
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207434980d2125ad0800000000000000
+      internalID: -2715086938485602558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_125
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 187
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2233819848947bc0800000000000000
+      internalID: -3786233949265382868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_126
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9059e73b707dcccb0800000000000000
+      internalID: -4842259071253965559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_127
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcbd676245ed47d0800000000000000
+      internalID: -2932435708982477604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_128
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 188
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b29f6572f167df0800000000000000
+      internalID: -182924481038570717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_129
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 196
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f62572169927df0800000000000000
+      internalID: -183915992218177729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_130
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 196
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684b9d99388350e00800000000000000
+      internalID: 1010275829287597190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_131
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 187
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64a7ae7d61dbcc00800000000000000
+      internalID: 922060816933954667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_132
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278b4ae84d4ce5490800000000000000
+      internalID: -7755545091080144782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_133
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd07915e0e6f8e850800000000000000
+      internalID: 6406641915711287517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_134
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a00c285dd832e4a0800000000000000
+      internalID: -6565622783434555229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_135
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc27286514f40830800000000000000
+      internalID: 4036619538809695482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_136
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2fdfd72c57c5490800000000000000
+      internalID: -7756194980040936768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_137
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 188
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875bd98f4f5d7aaa0800000000000000
+      internalID: -6149711518031301256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_138
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 188
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e4c546ec0b60580800000000000000
+      internalID: -8861200816311349732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_139
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a80699362859dd0800000000000000
+      internalID: -2479932655510975856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_140
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0f5b95f3ba57fc0800000000000000
+      internalID: -3497701247006936928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_141
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 160
+        width: 208
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bc1f8cf324d2300800000000000000
+      internalID: 228911997787425562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_142
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 144
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b49c373818b9fc30800000000000000
+      internalID: 4393745325622072499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_143
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 144
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54746f95b93e8ac90800000000000000
+      internalID: -7158221351336655035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_144
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 88
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eaa63b79e39f5e90800000000000000
+      internalID: -7034741461925582108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_145
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 88
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078033c5a8c41f200800000000000000
+      internalID: 212034814599170160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_146
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 88
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e843750a2f95ac0800000000000000
+      internalID: -3865792034649108954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_147
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 88
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ff30f9a2bfc8720800000000000000
+      internalID: 2849928824693718886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_148
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 88
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc45b051302fc6200800000000000000
+      internalID: 174780580612494539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_149
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 88
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6b370de98d8cee0800000000000000
+      internalID: -1240503520726894908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_150
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 120
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a2808b3e042a500800000000000000
+      internalID: 405958263206062703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_151
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 96
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7246b98725c30210800000000000000
+      internalID: 1298097891217654395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_152
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496f15d86797a3340800000000000000
+      internalID: 4844317899274450580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_153
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 88
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b53094de7333d7c0800000000000000
+      internalID: -4047835020250827344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_154
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 56
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86ac0028b6f01f00800000000000000
+      internalID: 1085638780868404874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_155
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2458a6f4c05637c60800000000000000
+      internalID: 7814700881964336450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_156
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 56
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0230e09fcf1b0e0800000000000000
+      internalID: -2255743791723765577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_157
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 56
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9dfd6091f224270800000000000000
+      internalID: 8233194853322709477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_158
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6883c640458f861e0800000000000000
+      internalID: -2204238977862715258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_159
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 16
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e1ef5e4d6bba170800000000000000
+      internalID: 8190841372811337244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_160
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 80
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390f97ef141416500800000000000000
+      internalID: 387662794628657299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_161
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da26362a7c07c9c0800000000000000
+      internalID: -3907140432953988395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_162
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02aa955ffdeaad5a0800000000000000
+      internalID: -6495687235611284960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_163
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 16
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1168a5ed9caad020800000000000000
+      internalID: 2367394348299477275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Reduced_164
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 0
+        width: 73
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f2dd1c32fe0cec0800000000000000
+      internalID: -3548573569512558794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9f6e90097d80e9f4cb62603a4cdb1575
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tileset Reduced_0: 405518615512985844
+      Tileset Reduced_1: 6378526237037239416
+      Tileset Reduced_10: -991387646694473158
+      Tileset Reduced_100: 7826661047125411153
+      Tileset Reduced_101: -188359533428710514
+      Tileset Reduced_102: 3618102013702793034
+      Tileset Reduced_103: 2350902387768197919
+      Tileset Reduced_104: 5749509810161037637
+      Tileset Reduced_105: 4354455658148536774
+      Tileset Reduced_106: 1906057327970015390
+      Tileset Reduced_107: 3467144572644551630
+      Tileset Reduced_108: 8820916068967312789
+      Tileset Reduced_109: -8602752719373005314
+      Tileset Reduced_11: -5026326306744438256
+      Tileset Reduced_110: -2649520433145639549
+      Tileset Reduced_111: 2934105228012451326
+      Tileset Reduced_112: -2595869154097029415
+      Tileset Reduced_113: 1311856202945036689
+      Tileset Reduced_114: -376412919502982467
+      Tileset Reduced_115: -7952370739491405473
+      Tileset Reduced_116: -4813177508404632531
+      Tileset Reduced_117: 165270529974988831
+      Tileset Reduced_118: -1497800261474982197
+      Tileset Reduced_119: 3352442770926880068
+      Tileset Reduced_12: -2528448690448839873
+      Tileset Reduced_120: 2677503213930415269
+      Tileset Reduced_121: -3058348689551272120
+      Tileset Reduced_122: -578699214046723705
+      Tileset Reduced_123: -1292565862214487037
+      Tileset Reduced_124: -2715086938485602558
+      Tileset Reduced_125: -3786233949265382868
+      Tileset Reduced_126: -4842259071253965559
+      Tileset Reduced_127: -2932435708982477604
+      Tileset Reduced_128: -182924481038570717
+      Tileset Reduced_129: -183915992218177729
+      Tileset Reduced_13: -5811932640420769160
+      Tileset Reduced_130: 1010275829287597190
+      Tileset Reduced_131: 922060816933954667
+      Tileset Reduced_132: -7755545091080144782
+      Tileset Reduced_133: 6406641915711287517
+      Tileset Reduced_134: -6565622783434555229
+      Tileset Reduced_135: 4036619538809695482
+      Tileset Reduced_136: -7756194980040936768
+      Tileset Reduced_137: -6149711518031301256
+      Tileset Reduced_138: -8861200816311349732
+      Tileset Reduced_139: -2479932655510975856
+      Tileset Reduced_14: -7140741285571319941
+      Tileset Reduced_140: -3497701247006936928
+      Tileset Reduced_141: 228911997787425562
+      Tileset Reduced_142: 4393745325622072499
+      Tileset Reduced_143: -7158221351336655035
+      Tileset Reduced_144: -7034741461925582108
+      Tileset Reduced_145: 212034814599170160
+      Tileset Reduced_146: -3865792034649108954
+      Tileset Reduced_147: 2849928824693718886
+      Tileset Reduced_148: 174780580612494539
+      Tileset Reduced_149: -1240503520726894908
+      Tileset Reduced_15: -3758691804754308022
+      Tileset Reduced_150: 405958263206062703
+      Tileset Reduced_151: 1298097891217654395
+      Tileset Reduced_152: 4844317899274450580
+      Tileset Reduced_153: -4047835020250827344
+      Tileset Reduced_154: 1085638780868404874
+      Tileset Reduced_155: 7814700881964336450
+      Tileset Reduced_156: -2255743791723765577
+      Tileset Reduced_157: 8233194853322709477
+      Tileset Reduced_158: -2204238977862715258
+      Tileset Reduced_159: 8190841372811337244
+      Tileset Reduced_16: 6059349604454102393
+      Tileset Reduced_160: 387662794628657299
+      Tileset Reduced_161: -3907140432953988395
+      Tileset Reduced_162: -6495687235611284960
+      Tileset Reduced_163: 2367394348299477275
+      Tileset Reduced_164: -3548573569512558794
+      Tileset Reduced_17: -5264267084217323029
+      Tileset Reduced_18: 5993355287841823063
+      Tileset Reduced_19: -3443261440005518360
+      Tileset Reduced_2: 8364366358633753866
+      Tileset Reduced_20: -7470570966695778730
+      Tileset Reduced_21: 7237960955692802461
+      Tileset Reduced_22: -2268296523092777976
+      Tileset Reduced_23: 6582881525964703517
+      Tileset Reduced_24: -2306703852197152695
+      Tileset Reduced_25: 950928635804976571
+      Tileset Reduced_26: 8522363355021364680
+      Tileset Reduced_27: 4749858938591550307
+      Tileset Reduced_28: -4920700050497427567
+      Tileset Reduced_29: 5933501958299222171
+      Tileset Reduced_3: 7257065519329990256
+      Tileset Reduced_30: -2856269775138111541
+      Tileset Reduced_31: 2820206988180823155
+      Tileset Reduced_32: -5761429839964915640
+      Tileset Reduced_33: 1920965454816951526
+      Tileset Reduced_34: 2746147292629436777
+      Tileset Reduced_35: -7203794331518200094
+      Tileset Reduced_36: -2344592083681860077
+      Tileset Reduced_37: -3409965939507563302
+      Tileset Reduced_38: -631889574947635663
+      Tileset Reduced_39: 4257181593794937612
+      Tileset Reduced_4: -5489616496254126558
+      Tileset Reduced_40: 7304601224158813265
+      Tileset Reduced_41: -6887875347106824719
+      Tileset Reduced_42: -7177104470628537290
+      Tileset Reduced_43: -3356036527675611565
+      Tileset Reduced_44: 6073074922470055667
+      Tileset Reduced_45: 1230405353346245840
+      Tileset Reduced_46: -7478881333513342682
+      Tileset Reduced_47: -7324577070149622461
+      Tileset Reduced_48: 8379600973244522259
+      Tileset Reduced_49: 7911216815532056328
+      Tileset Reduced_5: -1834655142299904490
+      Tileset Reduced_50: -219041293014404750
+      Tileset Reduced_51: 8653089239679946377
+      Tileset Reduced_52: -6648365539457917996
+      Tileset Reduced_53: -1783616927443211117
+      Tileset Reduced_54: -5268899598105445395
+      Tileset Reduced_55: 1058311011048818194
+      Tileset Reduced_56: 5011599518165592595
+      Tileset Reduced_57: 3240479313960127731
+      Tileset Reduced_58: 6780594799337452521
+      Tileset Reduced_59: 8417028541250085039
+      Tileset Reduced_6: -7148246880927887912
+      Tileset Reduced_60: -6215153606875282567
+      Tileset Reduced_61: 8219874805489574620
+      Tileset Reduced_62: 5779909431871866979
+      Tileset Reduced_63: -5851357794975418867
+      Tileset Reduced_64: -4835094460433385615
+      Tileset Reduced_65: -5193024776674472720
+      Tileset Reduced_66: 3263142158886303383
+      Tileset Reduced_67: -202290446762423946
+      Tileset Reduced_68: -4352518552620758633
+      Tileset Reduced_69: -4767180625269065450
+      Tileset Reduced_7: 5855456727237025572
+      Tileset Reduced_70: 2343231681583009826
+      Tileset Reduced_71: 6319157342973977278
+      Tileset Reduced_72: -6871837823210457668
+      Tileset Reduced_73: -4869349587448578785
+      Tileset Reduced_74: 7605750817877568931
+      Tileset Reduced_75: 1490310536288186262
+      Tileset Reduced_76: 7794392308113360398
+      Tileset Reduced_77: 8789002820266236304
+      Tileset Reduced_78: -4178376631123015131
+      Tileset Reduced_79: -4124696001316212975
+      Tileset Reduced_8: 8237924725710615597
+      Tileset Reduced_80: 2757620068418976469
+      Tileset Reduced_81: -5907335351405592513
+      Tileset Reduced_82: 6478708927970027413
+      Tileset Reduced_83: -1217517176419695798
+      Tileset Reduced_84: 1632703367905430198
+      Tileset Reduced_85: 3839998129028913242
+      Tileset Reduced_86: -6141221493374655804
+      Tileset Reduced_87: 4657349899809944304
+      Tileset Reduced_88: -3545219900468242406
+      Tileset Reduced_89: -306965745369918709
+      Tileset Reduced_9: 5667677378178105670
+      Tileset Reduced_90: 504792585215257806
+      Tileset Reduced_91: -1514787373479339874
+      Tileset Reduced_92: 542229546620090789
+      Tileset Reduced_93: 1108377067410141626
+      Tileset Reduced_94: -9083148050913135896
+      Tileset Reduced_95: 8476686449292749344
+      Tileset Reduced_96: 7561422620884650485
+      Tileset Reduced_97: 4292156746686527423
+      Tileset Reduced_98: 5838501279055896142
+      Tileset Reduced_99: -6310739220228575515
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
